@@ -1,0 +1,32 @@
+html {
+#header
+}
+
+body {
+    background-color: white;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    
+    }
+
+h1 {
+    font: 14pt Verdana, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    line-height: 20pt;
+}
+
+img {
+    <img src="Gary_Sinise_2011_(cropped).jpg" style="float; right; padding: 15px" width="350">
+    padding: 3pt;
+    float: right;
+}
+li {
+    a href="Home";
+    a href="Contact";
+}
+div. footer {
+    font-size: 9pt;
+    font-style: italic;
+    line-height: 12pt;
+    text-align: center;
+    padding: 30pt;
+}
